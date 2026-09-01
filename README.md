@@ -60,7 +60,7 @@
 |---|---|---|---|
 | 1 | 工程 engineering | backend-architect ✅、frontend-developer ✅、code-reviewer ✅、devops-automator ✅、prompt-engineer ✅、ai-engineer ✅、multi-agent-systems-architect ✅ | **7 / 7 ✅** |
 | 2 | 設計 design | ui-designer ✅、ux-researcher ✅ | **2 / 2 ✅** |
-| 3 | 產品 product | manager（產品經理）、sprint-prioritizer | ⬜ |
+| 3 | 產品 product | product-manager ✅、sprint-prioritizer ✅ | **2 / 2 ✅** |
 | 4 | 專案管理 project-management | project-manager-senior、meeting-notes-specialist | ⬜ |
 | 5 | 行銷 marketing | content-creator、growth-hacker、seo-specialist、ai-citation-strategist | ⬜ |
 | 6 | 銷售 sales | deal-strategist、outbound-strategist | ⬜ |

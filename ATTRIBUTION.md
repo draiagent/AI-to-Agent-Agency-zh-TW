@@ -49,6 +49,8 @@
 | `agents/engineering/multi-agent-systems-architect.md` | `engineering/engineering-multi-agent-systems-architect.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/design/ui-designer.md` | `design/design-ui-designer.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/design/ux-researcher.md` | `design/design-ux-researcher.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/product/product-manager.md` | `product/product-manager.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/product/sprint-prioritizer.md` | `product/product-sprint-prioritizer.md` | `3c95888` | ✅ 已人工校對 |
 
 _（每完成一個 Agent 就在此表新增一列。）_
 
