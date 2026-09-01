@@ -41,6 +41,7 @@
 | 本 repo 路徑 | 上游路徑 | 上游快照 | 校對狀態 |
 |---|---|---|---|
 | `agents/engineering/backend-architect.md` | `engineering/engineering-backend-architect.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/engineering/frontend-developer.md` | `engineering/engineering-frontend-developer.md` | `3c95888` | ✅ 已人工校對 |
 
 _（每完成一個 Agent 就在此表新增一列。）_
 
