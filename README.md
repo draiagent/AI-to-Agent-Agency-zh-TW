@@ -68,8 +68,8 @@
 | 8 | 付費媒體 paid-media | ppc-strategist ✅、creative-strategist ✅ | **2 / 2 ✅** |
 | 9 | 安全 security | appsec-engineer ✅、penetration-tester ✅ | **2 / 2 ✅** |
 | 10 | 測試 testing | test-automation-engineer ✅、accessibility-auditor ✅ | **2 / 2 ✅** |
-| 11 | 客戶支援 support | support-responder、analytics-reporter | ⬜ |
-| 12 | 研究 research | synthesist | ⬜ |
+| 11 | 客戶支援 support | support-responder ✅、analytics-reporter ✅ | **2 / 2 ✅** |
+| 12 | 研究 research | synthesist ✅ | **1 / 1 ✅** |
 | 13 | 學術 academic | psychologist、statistician | ⬜ |
 | 14 | 醫療 healthcare | clinical-evidence-agent | ⬜ |
 | 15 | 遊戲開發 game-development | game-designer、narrative-designer | ⬜ |

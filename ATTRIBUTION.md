@@ -67,6 +67,9 @@
 | `agents/security/penetration-tester.md` | `security/security-penetration-tester.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/testing/test-automation-engineer.md` | `testing/testing-test-automation-engineer.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/testing/accessibility-auditor.md` | `testing/testing-accessibility-auditor.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/support/support-responder.md` | `support/support-support-responder.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/support/analytics-reporter.md` | `support/support-analytics-reporter.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/research/synthesist.md` | `research/research-synthesist.md` | `3c95888` | ✅ 已人工校對 |
 
 _（每完成一個 Agent 就在此表新增一列。）_
 
