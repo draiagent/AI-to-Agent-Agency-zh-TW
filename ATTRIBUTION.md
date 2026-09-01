@@ -51,6 +51,10 @@
 | `agents/design/ux-researcher.md` | `design/design-ux-researcher.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/product/product-manager.md` | `product/product-manager.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/product/sprint-prioritizer.md` | `product/product-sprint-prioritizer.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/marketing/content-creator.md` | `marketing/marketing-content-creator.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/marketing/growth-hacker.md` | `marketing/marketing-growth-hacker.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/marketing/seo-specialist.md` | `marketing/marketing-seo-specialist.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/marketing/ai-citation-strategist.md` | `marketing/marketing-ai-citation-strategist.md` | `3c95888` | ✅ 已人工校對 |
 
 _（每完成一個 Agent 就在此表新增一列。）_
 

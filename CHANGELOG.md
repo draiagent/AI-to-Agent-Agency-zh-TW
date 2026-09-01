@@ -31,16 +31,22 @@
 - `agents/product/product-manager.md`、`agents/product/sprint-prioritizer.md` —
   繁體中文（zh-TW）版，由英文上游（`3c95888`）重新翻譯，已人工校對；
   PRD／機會評估／藍圖／GTM 等範本內文一併翻譯，`tools:` frontmatter 保留。
-- `docs/術語對照表.md` 新增「設計與 UX 研究」約 40 條、「產品管理與敏捷」約 42 條。
+- `agents/marketing/` 4 支：content-creator、growth-hacker、seo-specialist、
+  ai-citation-strategist —— 繁體中文（zh-TW）版，由英文上游（`3c95888`）重新翻譯，
+  已人工校對；SEO 稽核／關鍵字策略／修正包等範本一併翻譯，`color` hex 與 hreflang
+  code block 保留原文。**已排除上游行銷部門下所有中國平台專屬角色。**
+- `docs/術語對照表.md` 新增「設計與 UX 研究」約 40 條、「產品管理與敏捷」約 42 條、
+  「行銷、SEO 與 AEO/GEO」約 66 條。
 
 ### 里程碑
 - ✅ **工程部門完成（7 / 7）**
 - ✅ **設計部門完成（2 / 2）**
-- ✅ **產品部門完成（2 / 2）**：product-manager、sprint-prioritizer
+- ✅ **產品部門完成（2 / 2）**
+- ✅ **行銷部門完成（4 / 4）**：content-creator、growth-hacker、seo-specialist、ai-citation-strategist
 
 ### 待辦
-- 行銷部門：content-creator、growth-hacker、seo-specialist、ai-citation-strategist
-- 其餘 14 個部門（見 README 選錄清單）
+- 專案管理、銷售、財務、付費媒體、安全、測試、客戶支援、研究、學術、醫療、
+  遊戲開發、GIS、空間運算、跨域專業（14 個部門，僅 Repo A 定義檔）
 - 其餘 17 個部門（見 README 選錄清單）
 - 模組 1、3、4、5、6
 - 釘選上游 commit SHA（見 `UPSTREAM.md`）
