@@ -46,6 +46,7 @@
 | `agents/engineering/devops-automator.md` | `engineering/engineering-devops-automator.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/engineering/prompt-engineer.md` | `engineering/engineering-prompt-engineer.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/engineering/ai-engineer.md` | `engineering/engineering-ai-engineer.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/engineering/multi-agent-systems-architect.md` | `engineering/engineering-multi-agent-systems-architect.md` | `3c95888` | ✅ 已人工校對 |
 
 _（每完成一個 Agent 就在此表新增一列。）_
 

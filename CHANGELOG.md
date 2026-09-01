@@ -20,11 +20,19 @@
   `engineering/engineering-prompt-engineer.md`（`3c95888`）重新翻譯，已人工校對。
 - `agents/engineering/ai-engineer.md` — 繁體中文（zh-TW）版，由英文上游
   `engineering/engineering-ai-engineer.md`（`3c95888`）重新翻譯，已人工校對。
+- `agents/engineering/multi-agent-systems-architect.md` — 繁體中文（zh-TW）版，由
+  英文上游（`3c95888`）重新翻譯，已人工校對；600 行大檔，含 5 種拓撲模式、失敗分類、
+  斷路器、HITL 關卡、可觀測性、評測框架、架構審查檢查清單。
 - `docs/術語對照表.md` 新增「前端與 Web」約 25 條、「LLM 與提示工程」約 28 條、
-  「機器學習與 MLOps」約 36 條。
+  「機器學習與 MLOps」約 36 條、「多代理系統與協調」約 34 條。
+
+### 里程碑
+- ✅ **工程部門完成（7 / 7）**：backend-architect、frontend-developer、code-reviewer、
+  devops-automator、prompt-engineer、ai-engineer、multi-agent-systems-architect
 
 ### 待辦
-- 工程部門其餘：multi-agent-systems-architect
+- 設計部門：ui-designer、ux-researcher
+- 其餘 16 個部門（見 README 選錄清單）
 - 其餘 17 個部門（見 README 選錄清單）
 - 模組 1、3、4、5、6
 - 釘選上游 commit SHA（見 `UPSTREAM.md`）
