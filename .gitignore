@@ -1,0 +1,15 @@
+# 上游參考用的 clone（只用來 diff，不進版控）
+upstream-ref/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 編輯器
+.vscode/
+.idea/
+*.swp
+
+# 暫存
+*.tmp
+*.bak
