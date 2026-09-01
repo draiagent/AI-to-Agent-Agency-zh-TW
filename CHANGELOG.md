@@ -13,9 +13,13 @@
   `engineering/engineering-frontend-developer.md`（`3c95888`）重新翻譯，已人工校對。
 - `agents/engineering/code-reviewer.md` — 繁體中文（zh-TW）版，由英文上游
   `engineering/engineering-code-reviewer.md`（`3c95888`）重新翻譯，已人工校對。
+- `agents/engineering/devops-automator.md` — 繁體中文（zh-TW）版，由英文上游
+  `engineering/engineering-devops-automator.md`（`3c95888`）重新翻譯，已人工校對；
+  code block（GitHub Actions／Terraform／Prometheus）保留原文，僅譯註解與告警訊息。
 - `docs/術語對照表.md` 新增「前端與 Web」約 25 條。
 
 ### 待辦
-- 模組 2 其餘：devops-automator、senior-developer
+- 工程部門其餘：prompt-engineer、ai-engineer、multi-agent-systems-architect
+- 其餘 17 個部門（見 README 選錄清單）
 - 模組 1、3、4、5、6
 - 釘選上游 commit SHA（見 `UPSTREAM.md`）
