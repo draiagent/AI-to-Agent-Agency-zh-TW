@@ -55,6 +55,10 @@
 | `agents/marketing/growth-hacker.md` | `marketing/marketing-growth-hacker.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/marketing/seo-specialist.md` | `marketing/marketing-seo-specialist.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/marketing/ai-citation-strategist.md` | `marketing/marketing-ai-citation-strategist.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/project-management/project-manager-senior.md` | `project-management/project-manager-senior.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/project-management/meeting-notes-specialist.md` | `project-management/project-management-meeting-notes-specialist.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/sales/deal-strategist.md` | `sales/sales-deal-strategist.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/sales/outbound-strategist.md` | `sales/sales-outbound-strategist.md` | `3c95888` | ✅ 已人工校對 |
 
 _（每完成一個 Agent 就在此表新增一列。）_
 
