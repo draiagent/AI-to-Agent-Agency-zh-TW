@@ -67,7 +67,7 @@
 | 7 | 財務 finance | financial-analyst ✅、bookkeeper-controller ✅ | **2 / 2 ✅** |
 | 8 | 付費媒體 paid-media | ppc-strategist ✅、creative-strategist ✅ | **2 / 2 ✅** |
 | 9 | 安全 security | appsec-engineer ✅、penetration-tester ✅ | **2 / 2 ✅** |
-| 10 | 測試 testing | test-automation-engineer、accessibility-auditor | ⬜ |
+| 10 | 測試 testing | test-automation-engineer ✅、accessibility-auditor ✅ | **2 / 2 ✅** |
 | 11 | 客戶支援 support | support-responder、analytics-reporter | ⬜ |
 | 12 | 研究 research | synthesist | ⬜ |
 | 13 | 學術 academic | psychologist、statistician | ⬜ |
