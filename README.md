@@ -70,8 +70,8 @@
 | 10 | 測試 testing | test-automation-engineer ✅、accessibility-auditor ✅ | **2 / 2 ✅** |
 | 11 | 客戶支援 support | support-responder ✅、analytics-reporter ✅ | **2 / 2 ✅** |
 | 12 | 研究 research | synthesist ✅ | **1 / 1 ✅** |
-| 13 | 學術 academic | psychologist、statistician | ⬜ |
-| 14 | 醫療 healthcare | clinical-evidence-agent | ⬜ |
+| 13 | 學術 academic | psychologist ✅、statistician ✅ | **2 / 2 ✅** |
+| 14 | 醫療 healthcare | clinical-evidence-agent ✅ | **1 / 1 ✅** |
 | 15 | 遊戲開發 game-development | game-designer、narrative-designer | ⬜ |
 | 16 | GIS gis | analyst（垂直示範） | ⬜ |
 | 17 | 空間運算 spatial-computing | xr-immersive-developer（垂直示範） | ⬜ |

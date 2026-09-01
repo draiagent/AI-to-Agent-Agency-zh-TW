@@ -70,6 +70,9 @@
 | `agents/support/support-responder.md` | `support/support-support-responder.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/support/analytics-reporter.md` | `support/support-analytics-reporter.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/research/synthesist.md` | `research/research-synthesist.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/academic/psychologist.md` | `academic/academic-psychologist.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/academic/statistician.md` | `academic/academic-statistician.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/healthcare/clinical-evidence-agent.md` | `healthcare/healthcare-clinical-evidence-agent.md` | `3c95888` | ✅ 已人工校對 |
 
 _（每完成一個 Agent 就在此表新增一列。）_
 
