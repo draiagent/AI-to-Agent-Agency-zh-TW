@@ -32,7 +32,7 @@
 |---|---|
 | 取得方式 | GitHub `main` 分支 zip 下載 |
 | 取得日期 | 2026-09-01 |
-| 釘選 commit | _（待補：`git clone` 上游後以 `git rev-parse HEAD` 記錄）_ |
+| 釘選 commit | `3c9588880b7cafaec325a104899fd8bbe27e7d72`（上游最後更新 2026-08-26） |
 
 > 後續同步上游時，請更新此表並在 `CHANGELOG.md` 記錄。
 
@@ -40,7 +40,7 @@
 
 | 本 repo 路徑 | 上游路徑 | 上游快照 | 校對狀態 |
 |---|---|---|---|
-| `agents/engineering/backend-architect.md` | `engineering/engineering-backend-architect.md` | 2026-09-01 | ✅ 已人工校對 |
+| `agents/engineering/backend-architect.md` | `engineering/engineering-backend-architect.md` | `3c95888` | ✅ 已人工校對 |
 
 _（每完成一個 Agent 就在此表新增一列。）_
 

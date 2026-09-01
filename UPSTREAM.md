@@ -6,11 +6,11 @@
 |---|---|
 | 上游 repo | https://github.com/msitarzewski/agency-agents |
 | 分支 | `main` |
-| 釘選快照日期 | 2026-09-01 |
-| 釘選 commit SHA | _待補_ |
+| 釘選快照日期 | 2026-09-01（下載）／上游最後更新 2026-08-26 |
+| 釘選 commit SHA | `3c9588880b7cafaec325a104899fd8bbe27e7d72` |
 
-> 建議動作：`git clone https://github.com/msitarzewski/agency-agents upstream-ref`
-> 然後 `git -C upstream-ref rev-parse HEAD` 取得 SHA 填入上表與 `ATTRIBUTION.md`。
+> 更新時：`git -C upstream-ref pull` 後 `git -C upstream-ref rev-parse HEAD`
+> 取得新 SHA，填入上表與 `ATTRIBUTION.md`。
 
 ## 同步原則
 
