@@ -48,21 +48,37 @@
 
 ---
 
-## 🗂️ 選錄清單（規劃中，逐一批次進行）
+## 🗂️ 選錄清單：18 個部門，約 40 位數位員工
+
+把整套 Agency 想成一間公司：**部門（Domain）= 上游 division，數位員工（Sub-agent）= 具體專家角色**。
+本 repo 從上游 18 個部門各挑 1–7 位代表性數位員工翻成繁體中文。
 
 選錄標準：① 跨產業可教學 ② 對應到「AI → Agent」能力轉移的關鍵節點 ③ 一般團隊實際用得到。
+**已排除**上游行銷部門下所有中國平台專屬角色（抖音／小紅書／微信／微博／B站／百度SEO／跨境電商等 13 個）。
 
-| 模組 | Agent | 狀態 |
-|---|---|---|
-| 1 打地基：Agent 是什麼 | prompt-engineer、ai-engineer、multi-agent-systems-architect、rapid-prototyper | ⬜ 規劃 |
-| 2 工程實作四人組 | **backend-architect** ✅、**frontend-developer** ✅、**code-reviewer** ✅、devops-automator、senior-developer | 🔄 進行中 |
-| 3 產品與交付 | product-manager、sprint-prioritizer、design-ux-researcher、design-ui-designer | ⬜ 規劃 |
-| 4 內容與成長 | marketing-content-creator、marketing-growth-hacker、marketing-ai-citation-strategist、marketing-linkedin-content-creator | ⬜ 規劃 |
-| 5 品質・安全・治理 | security-engineer、test-writer、technical-writer、legal-contract-reviewer | ⬜ 規劃 |
-| 6 選修：中國平台 | douyin-strategist、xiaohongshu 系列、wechat-official-account | ⬜ 規劃 |
+| # | 部門 Domain | 數位員工 Sub-agents | 進度 |
+|---|---|---|---|
+| 1 | 工程 engineering | backend-architect ✅、frontend-developer ✅、code-reviewer ✅、devops-automator、prompt-engineer、ai-engineer、multi-agent-systems-architect | 3 / 7 |
+| 2 | 設計 design | ui-designer、ux-researcher | ⬜ |
+| 3 | 產品 product | manager（產品經理）、sprint-prioritizer | ⬜ |
+| 4 | 專案管理 project-management | project-manager-senior、meeting-notes-specialist | ⬜ |
+| 5 | 行銷 marketing | content-creator、growth-hacker、seo-specialist、ai-citation-strategist | ⬜ |
+| 6 | 銷售 sales | deal-strategist、outbound-strategist | ⬜ |
+| 7 | 財務 finance | financial-analyst、bookkeeper-controller | ⬜ |
+| 8 | 付費媒體 paid-media | ppc-strategist、creative-strategist | ⬜ |
+| 9 | 安全 security | appsec-engineer、penetration-tester | ⬜ |
+| 10 | 測試 testing | test-automation-engineer、accessibility-auditor | ⬜ |
+| 11 | 客戶支援 support | support-responder、analytics-reporter | ⬜ |
+| 12 | 研究 research | synthesist | ⬜ |
+| 13 | 學術 academic | psychologist、statistician | ⬜ |
+| 14 | 醫療 healthcare | clinical-evidence-agent | ⬜ |
+| 15 | 遊戲開發 game-development | game-designer、narrative-designer | ⬜ |
+| 16 | GIS gis | analyst（垂直示範） | ⬜ |
+| 17 | 空間運算 spatial-computing | xr-immersive-developer（垂直示範） | ⬜ |
+| 18 | 跨域專業 specialized | business-strategist、mcp-builder | ⬜ |
 
-> ✅ = 已完成並校對　🔄 = 進行中　⬜ = 尚未開始
-> 目前完成度請以 [`CHANGELOG.md`](CHANGELOG.md) 為準。
+> ✅ = 已完成並校對　⬜ = 尚未開始　　完成度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。
+> `agents/` 目錄依部門分子資料夾（沿用上游 division 名稱），可整包或分部門 drop-in。
 
 ---
 
