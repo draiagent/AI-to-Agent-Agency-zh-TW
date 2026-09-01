@@ -21,7 +21,7 @@
 
 本專案所做的事，只有三件：
 
-1. **篩選** — 從上游約 270 個 Agent 中，精選與「AI to Agent」教學最相關的一小組。
+1. **篩選** — 從上游約 270 個 Agent 中，精選 18 個部門、39 位與「AI to Agent」教學最相關的數位員工。
 2. **翻譯** — 從**英文上游**逐檔重新翻譯為**繁體中文（台灣用語）**，而非簡體轉繁體。
 3. **在地化** — 統一技術術語（見 [`docs/術語對照表.md`](docs/術語對照表.md)），保留程式碼、路徑、
    CLI 名稱與通用英文技術縮寫（RAG、LLM、API、OAuth、CI/CD 等）不譯。
@@ -48,7 +48,7 @@
 
 ---
 
-## 🗂️ 選錄清單：18 個部門，約 40 位數位員工
+## 🗂️ 選錄清單：18 個部門，39 位數位員工 ✅ 全數完成
 
 把整套 Agency 想成一間公司：**部門（Domain）= 上游 division，數位員工（Sub-agent）= 具體專家角色**。
 本 repo 從上游 18 個部門各挑 1–7 位代表性數位員工翻成繁體中文。
@@ -72,10 +72,10 @@
 | 12 | 研究 research | synthesist ✅ | **1 / 1 ✅** |
 | 13 | 學術 academic | psychologist ✅、statistician ✅ | **2 / 2 ✅** |
 | 14 | 醫療 healthcare | clinical-evidence-agent ✅ | **1 / 1 ✅** |
-| 15 | 遊戲開發 game-development | game-designer、narrative-designer | ⬜ |
-| 16 | GIS gis | analyst（垂直示範） | ⬜ |
-| 17 | 空間運算 spatial-computing | xr-immersive-developer（垂直示範） | ⬜ |
-| 18 | 跨域專業 specialized | business-strategist、mcp-builder | ⬜ |
+| 15 | 遊戲開發 game-development | game-designer ✅、narrative-designer ✅ | **2 / 2 ✅** |
+| 16 | GIS gis | analyst ✅（垂直示範） | **1 / 1 ✅** |
+| 17 | 空間運算 spatial-computing | xr-immersive-developer ✅（垂直示範） | **1 / 1 ✅** |
+| 18 | 跨域專業 specialized | business-strategist ✅、mcp-builder ✅ | **2 / 2 ✅** |
 
 > ✅ = 已完成並校對　⬜ = 尚未開始　　完成度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。
 > `agents/` 目錄依部門分子資料夾（沿用上游 division 名稱），可整包或分部門 drop-in。

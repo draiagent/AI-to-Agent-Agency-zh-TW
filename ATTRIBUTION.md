@@ -73,6 +73,12 @@
 | `agents/academic/psychologist.md` | `academic/academic-psychologist.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/academic/statistician.md` | `academic/academic-statistician.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/healthcare/clinical-evidence-agent.md` | `healthcare/healthcare-clinical-evidence-agent.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/game-development/game-designer.md` | `game-development/game-designer.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/game-development/narrative-designer.md` | `game-development/narrative-designer.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/gis/analyst.md` | `gis/gis-analyst.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/spatial-computing/xr-immersive-developer.md` | `spatial-computing/xr-immersive-developer.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/specialized/business-strategist.md` | `specialized/business-strategist.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/specialized/mcp-builder.md` | `specialized/specialized-mcp-builder.md` | `3c95888` | ✅ 已人工校對 |
 
 _（每完成一個 Agent 就在此表新增一列。）_
 
