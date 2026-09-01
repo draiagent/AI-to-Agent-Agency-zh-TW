@@ -39,7 +39,7 @@
 |---|---|
 | 純 Agent 定義檔（`.md`），frontmatter 結構與上游完全一致 | 不含課程、講義、練習題 |
 | 可直接複製到 `~/.claude/agents/` 等目錄使用 | 不是桌面 App、不是 CLI 工具 |
-| 精選 20–30 個、逐檔人工校對的繁體中文版 | 不是上游 270 個的全量翻譯 |
+| 18 部門 × 約 40 位、逐檔人工校對的繁體中文版 | 不是上游 270 個的全量翻譯 |
 | 持續追上游更新（見 [`UPSTREAM.md`](UPSTREAM.md)） | 不保證與上游即時同步 |
 
 搭配課程教材請見姊妹專案：
@@ -64,8 +64,8 @@
 | 4 | 專案管理 project-management | project-manager-senior ✅、meeting-notes-specialist ✅ | **2 / 2 ✅** |
 | 5 | 行銷 marketing | content-creator ✅、growth-hacker ✅、seo-specialist ✅、ai-citation-strategist ✅ | **4 / 4 ✅** |
 | 6 | 銷售 sales | deal-strategist ✅、outbound-strategist ✅ | **2 / 2 ✅** |
-| 7 | 財務 finance | financial-analyst、bookkeeper-controller | ⬜ |
-| 8 | 付費媒體 paid-media | ppc-strategist、creative-strategist | ⬜ |
+| 7 | 財務 finance | financial-analyst ✅、bookkeeper-controller ✅ | **2 / 2 ✅** |
+| 8 | 付費媒體 paid-media | ppc-strategist ✅、creative-strategist ✅ | **2 / 2 ✅** |
 | 9 | 安全 security | appsec-engineer、penetration-tester | ⬜ |
 | 10 | 測試 testing | test-automation-engineer、accessibility-auditor | ⬜ |
 | 11 | 客戶支援 support | support-responder、analytics-reporter | ⬜ |
@@ -115,7 +115,7 @@ frontmatter 結構與上游一致，因此上游 [`agency-agents` 的 `scripts/i
 
 - 本 repo **釘選**一個上游快照（commit / 日期），記錄於 [`UPSTREAM.md`](UPSTREAM.md)。
 - 上游有實質更新時，**逐檔比對 diff** 後再決定是否同步，不自動 merge。
-- 因為只維護 20–30 個檔案，同步成本可控；預計每季檢視一次。
+- 因為只維護約 40 個檔案，同步成本可控；預計每季檢視一次。
 - 若上游某 Agent 被移除或大改，本 repo 會在 `CHANGELOG.md` 註記並保留舊版一個週期。
 
 ---

@@ -59,6 +59,10 @@
 | `agents/project-management/meeting-notes-specialist.md` | `project-management/project-management-meeting-notes-specialist.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/sales/deal-strategist.md` | `sales/sales-deal-strategist.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/sales/outbound-strategist.md` | `sales/sales-outbound-strategist.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/finance/financial-analyst.md` | `finance/finance-financial-analyst.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/finance/bookkeeper-controller.md` | `finance/finance-bookkeeper-controller.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/paid-media/ppc-strategist.md` | `paid-media/paid-media-ppc-strategist.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/paid-media/creative-strategist.md` | `paid-media/paid-media-creative-strategist.md` | `3c95888` | ✅ 已人工校對 |
 
 _（每完成一個 Agent 就在此表新增一列。）_
 

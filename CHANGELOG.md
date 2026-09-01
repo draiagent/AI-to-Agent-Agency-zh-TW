@@ -47,13 +47,19 @@
 - `agents/project-management/` 2 支：project-manager-senior、meeting-notes-specialist
 - `agents/sales/` 2 支：deal-strategist（MEDDPICC）、outbound-strategist（訊號驅動外撥）
 
+- `agents/finance/` 2 支：financial-analyst、bookkeeper-controller
+- `agents/paid-media/` 2 支：ppc-strategist、creative-strategist
+
 ### 里程碑（續）
 - ✅ **專案管理部門完成（2 / 2）**
 - ✅ **銷售部門完成（2 / 2）**
+- ✅ **財務部門完成（2 / 2）**
+- ✅ **付費媒體部門完成（2 / 2）**
+- 進度：**8 / 18 個部門完成，共 23 位數位員工**
 
 ### 待辦
-- 財務、付費媒體、安全、測試、客戶支援、研究、學術、醫療、
-  遊戲開發、GIS、空間運算、跨域專業（12 個部門，僅 Repo A 定義檔）
+- 安全、測試、客戶支援、研究、學術、醫療、遊戲開發、GIS、空間運算、跨域專業
+  （10 個部門，僅 Repo A 定義檔）
 - 其餘 17 個部門（見 README 選錄清單）
 - 模組 1、3、4、5、6
 - 釘選上游 commit SHA（見 `UPSTREAM.md`）
