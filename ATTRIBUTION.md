@@ -63,6 +63,8 @@
 | `agents/finance/bookkeeper-controller.md` | `finance/finance-bookkeeper-controller.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/paid-media/ppc-strategist.md` | `paid-media/paid-media-ppc-strategist.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/paid-media/creative-strategist.md` | `paid-media/paid-media-creative-strategist.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/security/appsec-engineer.md` | `security/security-appsec-engineer.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/security/penetration-tester.md` | `security/security-penetration-tester.md` | `3c95888` | ✅ 已人工校對 |
 
 _（每完成一個 Agent 就在此表新增一列。）_
 
