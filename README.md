@@ -58,7 +58,7 @@
 
 | # | 部門 Domain | 數位員工 Sub-agents | 進度 |
 |---|---|---|---|
-| 1 | 工程 engineering | backend-architect ✅、frontend-developer ✅、code-reviewer ✅、devops-automator ✅、prompt-engineer ✅、ai-engineer、multi-agent-systems-architect | 5 / 7 |
+| 1 | 工程 engineering | backend-architect ✅、frontend-developer ✅、code-reviewer ✅、devops-automator ✅、prompt-engineer ✅、ai-engineer ✅、multi-agent-systems-architect | 6 / 7 |
 | 2 | 設計 design | ui-designer、ux-researcher | ⬜ |
 | 3 | 產品 product | manager（產品經理）、sprint-prioritizer | ⬜ |
 | 4 | 專案管理 project-management | project-manager-senior、meeting-notes-specialist | ⬜ |
