@@ -44,6 +44,7 @@
 | `agents/engineering/frontend-developer.md` | `engineering/engineering-frontend-developer.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/engineering/code-reviewer.md` | `engineering/engineering-code-reviewer.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/engineering/devops-automator.md` | `engineering/engineering-devops-automator.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/engineering/prompt-engineer.md` | `engineering/engineering-prompt-engineer.md` | `3c95888` | ✅ 已人工校對 |
 
 _（每完成一個 Agent 就在此表新增一列。）_
 
