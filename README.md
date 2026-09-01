@@ -55,7 +55,7 @@
 | 模組 | Agent | 狀態 |
 |---|---|---|
 | 1 打地基：Agent 是什麼 | prompt-engineer、ai-engineer、multi-agent-systems-architect、rapid-prototyper | ⬜ 規劃 |
-| 2 工程實作四人組 | **backend-architect** ✅、**frontend-developer** ✅、code-reviewer、devops-automator、senior-developer | 🔄 進行中 |
+| 2 工程實作四人組 | **backend-architect** ✅、**frontend-developer** ✅、**code-reviewer** ✅、devops-automator、senior-developer | 🔄 進行中 |
 | 3 產品與交付 | product-manager、sprint-prioritizer、design-ux-researcher、design-ui-designer | ⬜ 規劃 |
 | 4 內容與成長 | marketing-content-creator、marketing-growth-hacker、marketing-ai-citation-strategist、marketing-linkedin-content-creator | ⬜ 規劃 |
 | 5 品質・安全・治理 | security-engineer、test-writer、technical-writer、legal-contract-reviewer | ⬜ 規劃 |
