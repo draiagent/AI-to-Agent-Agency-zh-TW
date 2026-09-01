@@ -26,13 +26,17 @@
 - `docs/術語對照表.md` 新增「前端與 Web」約 25 條、「LLM 與提示工程」約 28 條、
   「機器學習與 MLOps」約 36 條、「多代理系統與協調」約 34 條。
 
+- `agents/design/ui-designer.md`、`agents/design/ux-researcher.md` — 繁體中文（zh-TW）版，
+  由英文上游（`3c95888`）重新翻譯，已人工校對；CSS token 系統保留原文僅譯註解。
+- `docs/術語對照表.md` 新增「設計與 UX 研究」約 40 條。
+
 ### 里程碑
-- ✅ **工程部門完成（7 / 7）**：backend-architect、frontend-developer、code-reviewer、
-  devops-automator、prompt-engineer、ai-engineer、multi-agent-systems-architect
+- ✅ **工程部門完成（7 / 7）**
+- ✅ **設計部門完成（2 / 2）**：ui-designer、ux-researcher
 
 ### 待辦
-- 設計部門：ui-designer、ux-researcher
-- 其餘 16 個部門（見 README 選錄清單）
+- 產品部門：manager、sprint-prioritizer
+- 其餘 15 個部門（見 README 選錄清單）
 - 其餘 17 個部門（見 README 選錄清單）
 - 模組 1、3、4、5、6
 - 釘選上游 commit SHA（見 `UPSTREAM.md`）
