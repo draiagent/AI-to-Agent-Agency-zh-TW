@@ -1,4 +1,7 @@
-# 致謝與來源對應（ATTRIBUTION）
+# 致謝與來源（ATTRIBUTION）
+
+> 本文件中的「dr.aiagent（draiagent）」為維護者的 GitHub 帳號與法律署名，
+> 對外品牌為 **AI Coach 益力康陳董｜2026 AI to Agent**，兩者為同一權利人。
 
 ## 原始作品
 
@@ -18,13 +21,14 @@
 
 1. **選錄**：僅挑選部分 Agent 檔案，未納入上游全部內容。
 2. **翻譯**：將選錄檔案之 frontmatter（`name` / `description` / `vibe`）與正文，
-   由英文翻譯為繁體中文（台灣用語）。`color` / `emoji` 欄位維持原值。
+   由英文翻譯為繁體中文（台灣用語）。`color` / `emoji` / `tools` 欄位維持原值。
 3. **在地化**：統一技術術語（見 `docs/術語對照表.md`）；程式碼區塊、檔案路徑、
    指令名稱、通用英文技術縮寫維持原文，僅將程式碼內註解譯為繁體中文。
 4. **新增**：本 repo 自行新增 `README.md`、`ATTRIBUTION.md`、`UPSTREAM.md`、
-   `CHANGELOG.md`、`CONTRIBUTING.md`、`docs/`。
+   `CHANGELOG.md`、`CONTRIBUTING.md`、`docs/`、`rosters/`（團隊配方），
+   以及少數原創新增角色（見下方「原創新增角色」章節）。
 
-未對原始 Agent 的角色設定、方法論、專業流程做實質內容變更。
+除原創新增角色外，未對原始 Agent 的角色設定、方法論、專業流程做實質內容變更。
 
 ## 上游快照
 
