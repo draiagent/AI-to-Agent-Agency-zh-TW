@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 課程教材相關（教學導引 / Lab / 課綱）
+    url: https://github.com/draiagent/ai-to-agent-agency-course-zh-TW/issues
+    about: 本 repo 只放 Agent 定義檔；教材問題請到姊妹 repo。
+  - name: 上游 The Agency（agency-agents）
+    url: https://github.com/msitarzewski/agency-agents
+    about: 角色設定、方法論的原始來源（英文，MIT）。
