@@ -190,7 +190,8 @@ MIT License。原始英文內容著作權歸 Michael Sitarzewski 與 AgentLand C
 **AI Coach 益力康陳董｜2026 AI to Agent**
 
 - 姊妹課程專案：[`ai-to-agent-agency-course-zh-TW`](https://github.com/draiagent/ai-to-agent-agency-course-zh-TW)（CC BY-SA 4.0）
-- 議題與貢獻：請透過本 repo 的 Issues 與 Pull Requests
+- 貢獻方式：見 [`CONTRIBUTING.md`](CONTRIBUTING.md)；上游同步政策見 [`UPSTREAM.md`](UPSTREAM.md)
+- 議題與 PR：請透過本 repo 的 Issues 與 Pull Requests
 
 > 「2026 AI to Agent」是本年度的方法論主張：從「會用 AI」邁向「讓 AI 自主完成工作」。
 > 本專案是該主張的公開實作與教學素材之一。
