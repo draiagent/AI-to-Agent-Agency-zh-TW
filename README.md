@@ -8,8 +8,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Upstream](https://img.shields.io/badge/upstream-msitarzewski%2Fagency--agents-blue)](https://github.com/msitarzewski/agency-agents)
-[![Language](https://img.shields.io/badge/lang-zh--TW%20%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-brightgreen)](#)
-[![Agents](https://img.shields.io/badge/agents-46%20(41%2B5)-informational)](#選錄清單18-個部門46-位數位員工)
+[![Language](https://img.shields.io/badge/lang-zh--TW%20%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-brightgreen)](#關於本專案)
+[![Agents](https://img.shields.io/badge/agents-46%20%2841%2B5%29-informational)](#選錄清單18-個部門46-位數位員工)
 
 ---
 
