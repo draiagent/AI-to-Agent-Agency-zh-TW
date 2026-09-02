@@ -90,5 +90,3 @@ frontmatter 結構與上游一致（`color` hex、`tools:` 等欄位原樣保留
 
 ### 待辦
 - 依 `UPSTREAM.md` 同步政策，每季檢視上游更新。
-- 姊妹 repo `ai-to-agent-agency-course-zh-TW` 的教案目前涵蓋工程／設計／產品／行銷
-  4 部門，其餘 14 部門教案分批補（定義檔已在本 repo）。
