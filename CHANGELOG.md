@@ -4,6 +4,15 @@
 
 維護：**AI Coach 益力康陳董｜2026 AI to Agent**（draiagent）。
 
+## [未發佈] — 新增企業 AI to Agent 導入與治理團隊配方
+
+### 文件
+- 新增 `rosters/企業-AI-to-Agent-導入與治理團隊.md`（原創教學文件，MIT）：
+  以「最小可行團隊」完成 Discover → VAD → VAC → Build → Verify → Deploy & Govern →
+  Reuse 七階段閉環；加入 VAC 規格模板、階段閘門、按需專業席位、90 天落地節奏、
+  Shadow Mode／Human-in-the-loop／Bounded Autonomy 三段上線策略與成效儀表板。
+- `README.md` 的團隊配方清單加入上述跨產業企業導入配方。
+
 ## [未發佈] — 原創新增 2 位治理席位（→ 46 位）
 
 ### 原創新增（非上游衍生，著作權歸 dr.aiagent，MIT）

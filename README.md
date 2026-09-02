@@ -148,6 +148,7 @@ frontmatter 結構與上游一致，可直接沿用上游
 | 檔案 | 情境 |
 |---|---|
 | [`rosters/益生寵愛-寵物餐廳-O2O與OEM團隊.md`](rosters/益生寵愛-寵物餐廳-O2O與OEM團隊.md) | 中小型寵物餐廳的「資源整合 → 價值共創 → 線上線下整合 → B2C 電商與 B2B OEM/ODM 雙軌商業模式」，跨 8 個部門、約 14 位數位員工，含非人類利害關係人代表線。對應教學模組見姊妹課程專案。 |
+| [`rosters/企業-AI-to-Agent-導入與治理團隊.md`](rosters/企業-AI-to-Agent-導入與治理團隊.md) | 跨產業企業導入配方：以最小可行核心團隊完成 Discover → VAD → VAC → Build → Verify → Govern → Reuse 七階段閉環，包含角色責任、階段閘門、90 天節奏、治理護欄與 KPI 儀表板。 |
 
 ---
 
