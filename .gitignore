@@ -5,9 +5,10 @@ upstream-ref/
 .DS_Store
 Thumbs.db
 
-# 編輯器
+# 編輯器 / 工具
 .vscode/
 .idea/
+.claude/
 *.swp
 
 # 暫存
