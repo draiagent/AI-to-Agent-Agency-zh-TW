@@ -79,8 +79,23 @@
 | `agents/spatial-computing/xr-immersive-developer.md` | `spatial-computing/xr-immersive-developer.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/specialized/business-strategist.md` | `specialized/business-strategist.md` | `3c95888` | ✅ 已人工校對 |
 | `agents/specialized/mcp-builder.md` | `specialized/specialized-mcp-builder.md` | `3c95888` | ✅ 已人工校對 |
+| `agents/specialized/esg-sustainability-officer.md` | `specialized/esg-sustainability-officer.md` | `3c95888` | ✅ 已人工校對；法規追蹤表末列「台灣」為在地化補充 |
+| `agents/specialized/pricing-analyst.md` | `specialized/specialized-pricing-analyst.md` | `3c95888` | ✅ 已人工校對 |
 
-_（每完成一個 Agent 就在此表新增一列。）_
+_（每完成一個翻譯 Agent 就在此表新增一列。）_
+
+## 原創新增角色（非上游衍生）
+
+以下角色**不是** The Agency 的翻譯，而是本 repo 因應在地需求（寵物市場、非人類利害關係人代表、
+企業對外影響、自營／本地電商）自行撰寫。著作權歸 dr.aiagent（draiagent），依 MIT 授權釋出。
+撰寫時參照了上游同類角色的結構（如 `accessibility-auditor`、`clinical-evidence-agent`），
+但角色設定、方法論與內容為原創。
+
+| 本 repo 路徑 | 結構參照範本 | 撰寫緣由 |
+|---|---|---|
+| `agents/specialized/animal-welfare-advocate.md` | `accessibility-auditor` | 為無法自我陳述、無法給知情同意的非人類共創者（動物）設一個代表席位 |
+| `agents/specialized/public-policy-advocate.md` | `clinical-evidence-agent`、`penetration-tester` | 企業對外影響（政策倡議／PAC／政治獻金）的邊界功能，需硬性法規與揭露護欄 |
+| `agents/marketing/ecommerce-operator.md` | `content-creator`、`growth-hacker` | 上游僅有中國平台版與跨境出口版，皆不符「自營、台灣本地市場、非跨境」需求 |
 
 ## 第三方參考
 

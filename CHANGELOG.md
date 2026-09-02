@@ -2,6 +2,25 @@
 
 本檔案記錄選錄、翻譯與上游同步的異動。日期為絕對日期（YYYY-MM-DD）。
 
+## [未發佈] — 補收錄 2 位 + 原創新增 3 位（→ 44 位）
+
+### 補收錄（翻譯自上游 `3c95888`）
+- `specialized/esg-sustainability-officer` — ESG 永續長；因應集團永續報告書需求。
+  法規追蹤表末新增「台灣」一列為在地化補充（金管會永續報告書規範），已於 `ATTRIBUTION.md` 標註。
+- `specialized/pricing-analyst` — 定價分析師；B2C 產品線與 B2B 代工報價共用。
+
+### 原創新增（非上游衍生，著作權歸 dr.aiagent，MIT）
+- `specialized/animal-welfare-advocate` — 動物福利代言人。為無法自我陳述、無法給知情同意的
+  非人類共創者（動物）設一個代表席位；對商業最佳化有福利護欄／否決權。結構參照 `accessibility-auditor`。
+- `specialized/public-policy-advocate` — 政府關係與公共政策。企業對外影響（政策倡議／PAC／
+  政治獻金）的邊界功能，內建硬性法規與揭露護欄。結構參照 `clinical-evidence-agent`、`penetration-tester`。
+- `marketing/ecommerce-operator` — 電商營運專員。自營 DTC 與台灣本地多通路（momo／蝦皮台灣／
+  自架站／LINE），聚焦會員回購與檔期損益。上游僅有中國平台版與跨境出口版，皆不適用。
+
+### 文件
+- `ATTRIBUTION.md` 新增「原創新增角色（非上游衍生）」章節。
+- `README.md`、`LICENSE` 說明更新為「41 翻譯 + 3 原創 = 44 位」。
+
 ## [未發佈] — 首版：18 部門 39 位數位員工
 
 ### 🎉 里程碑：Repo A 全 18 部門完成
