@@ -87,15 +87,17 @@ _（每完成一個翻譯 Agent 就在此表新增一列。）_
 ## 原創新增角色（非上游衍生）
 
 以下角色**不是** The Agency 的翻譯，而是本 repo 因應在地需求（寵物市場、非人類利害關係人代表、
-企業對外影響、自營／本地電商）自行撰寫。著作權歸 dr.aiagent（draiagent），依 MIT 授權釋出。
-撰寫時參照了上游同類角色的結構（如 `accessibility-auditor`、`clinical-evidence-agent`），
-但角色設定、方法論與內容為原創。
+企業對外影響、自營／本地電商、AI 團隊治理、營運韌性）自行撰寫。著作權歸 dr.aiagent（draiagent），
+依 MIT 授權釋出。撰寫時參照了上游同類角色的結構（如 `accessibility-auditor`、
+`clinical-evidence-agent`），但角色設定、方法論與內容為原創。
 
 | 本 repo 路徑 | 結構參照範本 | 撰寫緣由 |
 |---|---|---|
 | `agents/specialized/animal-welfare-advocate.md` | `accessibility-auditor` | 為無法自我陳述、無法給知情同意的非人類共創者（動物）設一個代表席位 |
 | `agents/specialized/public-policy-advocate.md` | `clinical-evidence-agent`、`penetration-tester` | 企業對外影響（政策倡議／PAC／政治獻金）的邊界功能，需硬性法規與揭露護欄 |
 | `agents/marketing/ecommerce-operator.md` | `content-creator`、`growth-hacker` | 上游僅有中國平台版與跨境出口版，皆不符「自營、台灣本地市場、非跨境」需求 |
+| `agents/specialized/agent-ops-manager.md` | `appsec-engineer`、`bookkeeper-controller` | 治理「數位員工團隊本身」——版本控管、最小權限、稽核軌跡、成本歸屬、事故回滾；能力光譜 L4「會養」的載體 |
+| `agents/specialized/business-continuity-planner.md` | `penetration-tester`、`incident-responder`（同類職能） | 非資安型中斷（天災、斷鏈、關鍵人員流失、基礎設施停擺、傳染病人力短缺）的營運持續與危機應變席位 |
 
 ## 第三方參考
 

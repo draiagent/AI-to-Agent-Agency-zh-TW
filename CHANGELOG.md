@@ -2,6 +2,19 @@
 
 本檔案記錄選錄、翻譯與上游同步的異動。日期為絕對日期（YYYY-MM-DD）。
 
+## [未發佈] — 原創新增 2 位治理席位（→ 46 位）
+
+### 原創新增（非上游衍生，著作權歸 dr.aiagent，MIT）
+- `specialized/agent-ops-manager` — 數位員工長。治理「數位員工團隊本身」：agent 定義檔的
+  版本控管、最小權限與存取核准、稽核軌跡、成本歸屬、事故回滾、生命週期關卡。是能力光譜
+  L4「會養」的載體。結構參照 `appsec-engineer`、`bookkeeper-controller`。
+- `specialized/business-continuity-planner` — 營運持續規劃師。面對非資安型中斷（天災、
+  斷鏈、關鍵人員流失、基礎設施停擺、傳染病人力短缺）的營運持續與危機應變：業務衝擊分析、
+  RTO／RPO、單點故障盤點、情境劇本、危機溝通、桌上演練。與 `security/` 的事件處理職能互補。
+
+### 文件
+- `README.md`、`ATTRIBUTION.md` 更新為「41 翻譯 + 5 原創 = 46 位」；specialized 部門 8 / 8。
+
 ## [未發佈] — 補收錄 2 位 + 原創新增 3 位（→ 44 位）
 
 ### 補收錄（翻譯自上游 `3c95888`）

@@ -21,7 +21,7 @@
 
 本專案所做的事，只有三件：
 
-1. **篩選** — 從上游約 270 個 Agent 中，精選 18 個部門、41 位與「AI to Agent」教學最相關的數位員工，並因應在地需求原創新增 3 位。
+1. **篩選** — 從上游約 270 個 Agent 中，精選 18 個部門、41 位與「AI to Agent」教學最相關的數位員工，並因應在地需求原創新增 5 位。
 2. **翻譯** — 從**英文上游**逐檔重新翻譯為**繁體中文（台灣用語）**，而非簡體轉繁體。
 3. **在地化** — 統一技術術語（見 [`docs/術語對照表.md`](docs/術語對照表.md)），保留程式碼、路徑、
    CLI 名稱與通用英文技術縮寫（RAG、LLM、API、OAuth、CI/CD 等）不譯。
@@ -39,7 +39,7 @@
 |---|---|
 | 純 Agent 定義檔（`.md`），frontmatter 結構與上游完全一致 | 不含課程、講義、練習題 |
 | 可直接複製到 `~/.claude/agents/` 等目錄使用 | 不是桌面 App、不是 CLI 工具 |
-| 18 部門 × 44 位（41 翻譯 + 3 原創）、逐檔人工校對的繁體中文版 | 不是上游 270 個的全量翻譯 |
+| 18 部門 × 46 位（41 翻譯 + 5 原創）、逐檔人工校對的繁體中文版 | 不是上游 270 個的全量翻譯 |
 | 持續追上游更新（見 [`UPSTREAM.md`](UPSTREAM.md)） | 不保證與上游即時同步 |
 
 搭配課程教材請見姊妹專案：
@@ -48,14 +48,14 @@
 
 ---
 
-## 🗂️ 選錄清單：18 個部門，44 位數位員工（41 翻譯 + 3 原創）
+## 🗂️ 選錄清單：18 個部門，46 位數位員工（41 翻譯 + 5 原創）
 
 把整套 Agency 想成一間公司：**部門（Domain）= 上游 division，數位員工（Sub-agent）= 具體專家角色**。
-本 repo 從上游 18 個部門各挑代表性數位員工翻成繁體中文，並因應在地需求新增 3 個原創角色。
+本 repo 從上游 18 個部門各挑代表性數位員工翻成繁體中文，並因應在地需求新增 5 個原創角色。
 
 選錄標準：① 跨產業可教學 ② 對應到「AI → Agent」能力轉移的關鍵節點 ③ 一般團隊實際用得到。
 **已排除**上游行銷部門下所有中國平台專屬角色（抖音／小紅書／微信／微博／B站／百度SEO／跨境電商等 13 個）。
-**原創新增 3 位**（🆕 標示，非上游衍生，見 [`ATTRIBUTION.md`](ATTRIBUTION.md)）：動物福利代言人、政府關係與公共政策、電商營運專員。
+**原創新增 5 位**（🆕 標示，非上游衍生，見 [`ATTRIBUTION.md`](ATTRIBUTION.md)）：動物福利代言人、政府關係與公共政策、電商營運專員、數位員工長、營運持續規劃師。
 
 | # | 部門 Domain | 數位員工 Sub-agents | 進度 |
 |---|---|---|---|
@@ -76,7 +76,7 @@
 | 15 | 遊戲開發 game-development | game-designer ✅、narrative-designer ✅ | **2 / 2 ✅** |
 | 16 | GIS gis | analyst ✅（垂直示範） | **1 / 1 ✅** |
 | 17 | 空間運算 spatial-computing | xr-immersive-developer ✅（垂直示範） | **1 / 1 ✅** |
-| 18 | 跨域專業 specialized | business-strategist ✅、mcp-builder ✅、esg-sustainability-officer ✅、pricing-analyst ✅、animal-welfare-advocate 🆕、public-policy-advocate 🆕 | **6 / 6 ✅** |
+| 18 | 跨域專業 specialized | business-strategist ✅、mcp-builder ✅、esg-sustainability-officer ✅、pricing-analyst ✅、animal-welfare-advocate 🆕、public-policy-advocate 🆕、agent-ops-manager 🆕、business-continuity-planner 🆕 | **8 / 8 ✅** |
 
 > ✅ = 已完成並校對　🆕 = 本 repo 原創新增（非上游衍生）　　完成度以 [`CHANGELOG.md`](CHANGELOG.md) 為準。
 > `agents/` 目錄依部門分子資料夾（沿用上游 division 名稱），可整包或分部門 drop-in。
@@ -125,7 +125,7 @@ frontmatter 結構與上游一致，因此上游 [`agency-agents` 的 `scripts/i
 
 - 本 repo **釘選**一個上游快照（commit / 日期），記錄於 [`UPSTREAM.md`](UPSTREAM.md)。
 - 上游有實質更新時，**逐檔比對 diff** 後再決定是否同步，不自動 merge。
-- 因為只維護約 44 個檔案，同步成本可控；預計每季檢視一次。原創新增的 3 個角色不受上游同步影響。
+- 因為只維護約 46 個檔案，同步成本可控；預計每季檢視一次。原創新增的 5 個角色不受上游同步影響。
 - 若上游某 Agent 被移除或大改，本 repo 會在 `CHANGELOG.md` 註記並保留舊版一個週期。
 
 ---
@@ -133,8 +133,8 @@ frontmatter 結構與上游一致，因此上游 [`agency-agents` 的 `scripts/i
 ## 📄 授權
 
 MIT License。原始英文內容著作權歸 Michael Sitarzewski / AgentLand Contributors，
-繁體中文翻譯、在地化，以及 3 個原創新增角色（動物福利代言人、政府關係與公共政策、
-電商營運專員）之著作權歸 dr.aiagent（draiagent），同樣依 MIT 釋出。
+繁體中文翻譯、在地化，以及 5 個原創新增角色（動物福利代言人、政府關係與公共政策、
+電商營運專員、數位員工長、營運持續規劃師）之著作權歸 dr.aiagent（draiagent），同樣依 MIT 釋出。
 完整條款見 [`LICENSE`](LICENSE)，逐檔來源與原創標記見 [`ATTRIBUTION.md`](ATTRIBUTION.md)。
 
 使用本 repo 的 Agent 檔案時，請一併保留上述著作權與致謝資訊。
